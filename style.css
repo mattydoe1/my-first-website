@@ -2,7 +2,7 @@ body {
     font-family: arial, helvetica, sans-serif;
     font-size: 14px;
     color: black;
-    background-color: #ffc;
+    background: white url(http://www.htmldog.com/images/bg.gif) no-repeat bottom;
     margin: 20px;
     padding: 0;
 }
