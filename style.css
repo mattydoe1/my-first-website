@@ -1,8 +1,16 @@
 body {
-    font-size: 12px;
+    font-family: arial, helvetica, sans-serif;
+    font-size: 14px;
     color: black;
 }
 h1 {
-    color: rgb(14, 0, 141);
+    font-family: arial, helvetica, sans-serif;
+    font-size: 36px;
+    color: red;
     background-color: black;
+}
+h2 {
+    font-family: arial, helvetica, sans-serif;
+    font-size: 30px;
+    color: blue;
 }
