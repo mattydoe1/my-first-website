@@ -10,6 +10,8 @@ h1 {
     background-color: black;
 }
 h2 {
+    margin: 20px;
+    padding: 40px;
     font-family: arial, helvetica, sans-serif;
     font-size: 30px;
     color: blue;
